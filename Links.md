@@ -9,6 +9,10 @@
 ## Контекст
 ![Cat](https://evmurashov.github.io/SF-SD/context.jpg)
 
+## Данные
+![Cat](https://evmurashov.github.io/SF-SD/data_model_class.jpg)
+![Cat](https://evmurashov.github.io/SF-SD/data_model_er.jpg)
+
 ## Sequence
 ![Cat](https://evmurashov.github.io/SF-SD/auth.jpg)
 ![Cat](https://evmurashov.github.io/SF-SD/add_inc.jpg)
@@ -16,6 +20,7 @@
 ![Cat](https://evmurashov.github.io/SF-SD/add_task.jpg)
 ![Cat](https://evmurashov.github.io/SF-SD/execution_task.jpg)
 ![Cat](https://evmurashov.github.io/SF-SD/close_inc.jpg)
+![Cat](https://evmurashov.github.io/SF-SD/get_report.jpg)
+
+## Статус
 ![Cat](https://evmurashov.github.io/SF-SD/inc_state.jpg)
-![Cat](https://evmurashov.github.io/SF-SD/data_model_class.jpg)
-![Cat](https://evmurashov.github.io/SF-SD/data_model_er.jpg)
